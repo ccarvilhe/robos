@@ -1,0 +1,80 @@
+CR Data,CR Hora,CR Tamanho,Dist MME,CA Hora,Contratos,Offset,TP,Pontos,Valor,Cod Status,Status
+2021-11-04,09:15,200,0,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-11-05,09:15,290,85.58999999999651,09:30,1,40,300,-370,-74.0,1,Estopou
+2021-11-08,09:15,305,267.50999999999476,10:10,1,40,300,-385,-77.0,1,Estopou
+2021-11-10,09:15,260,399.9600000000064,09:30,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-11,09:15,290,546.1699999999983,09:30,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-12,09:15,245,0,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-11-16,09:15,220,0,09:50,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-17,09:15,275,0,09:55,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-18,09:15,200,50.429999999993015,09:30,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-11-19,09:15,375,0,09:30,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-22,09:15,260,53.0,10:15,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-11-23,09:15,230,0,09:30,1,40,300,-310,-62.0,1,Estopou
+2021-11-24,09:15,260,0,09:40,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-11-25,09:15,400,50.2100000000064,10:55,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-26,09:15,250,1583.520000000004,10:05,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-11-29,09:15,225,914.1000000000058,10:05,1,40,300,-305,-61.0,1,Estopou
+2021-08-02,09:15,205,302.6900000000023,10:15,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-08-03,09:15,350,0,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-08-04,09:15,820,0,10:05,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-08-17,09:15,210,279.63000000000466,09:30,1,40,300,-290,-58.0,1,Estopou
+2021-08-19,09:15,230,1310.2400000000052,09:25,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-08-23,09:15,220,294.929999999993,09:55,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-08-27,09:15,215,0,10:00,1,40,300,-295,-59.0,1,Estopou
+2021-04-01,09:15,240,213.9499999999971,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-04-05,09:15,235,354.6499999999942,10:05,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-04-07,09:15,280,95.80000000000291,10:00,1,40,300,-360,-72.0,1,Estopou
+2021-04-08,09:15,205,154.69000000000233,10:00,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-04-13,09:15,225,261.429999999993,09:35,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-04-20,09:15,215,111.69000000000233,10:05,1,40,300,-295,-59.0,1,Estopou
+2021-04-30,09:15,215,387.820000000007,09:30,1,40,300,-295,-59.0,1,Estopou
+2021-07-08,09:15,370,1428.5599999999977,10:30,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-07-14,09:15,405,0,09:30,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-07-19,09:15,255,1077.5299999999988,09:25,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-07-21,09:15,310,0,09:55,1,40,300,-390,-78.0,1,Estopou
+2021-07-29,09:15,235,31.5,09:55,1,40,300,-315,-63.0,1,Estopou
+2021-06-01,09:15,315,535.1999999999971,10:10,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-06-28,09:15,255,177.61999999999534,09:55,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-06-30,09:15,265,0,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-05-11,09:15,225,564.4900000000052,09:55,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-05-12,09:15,200,7.559999999997672,09:30,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-05-14,09:15,290,501.6999999999971,10:05,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-03-01,09:15,530,97.13000000000466,10:20,1,40,300,-610,-122.0,1,Estopou
+2021-03-02,09:15,560,120.27999999999884,09:25,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-03,09:15,310,78.47999999999593,09:50,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-04,09:15,455,963.7400000000052,09:45,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-08,09:15,300,1091.070000000007,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-09,09:15,935,286.83000000000175,10:15,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-03-10,09:15,215,467.429999999993,10:00,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-12,09:15,235,386.6399999999994,10:15,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-03-18,09:15,390,41.36000000000058,09:35,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-19,09:15,240,0,10:00,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-22,09:15,220,252.3399999999965,10:00,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-23,09:15,295,423.75,09:50,1,40,300,-375,-75.0,1,Estopou
+2021-03-25,09:15,535,85.5399999999936,09:20,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-26,09:15,205,55.33999999999651,09:55,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-03-29,09:15,210,0,09:40,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-31,09:15,315,0,10:30,1,40,300,-395,-79.0,1,Estopou
+2021-10-01,09:15,215,0,10:00,1,40,300,-295,-59.0,1,Estopou
+2021-10-06,09:15,205,1161.570000000007,09:40,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-10-19,09:15,320,1011.8099999999977,10:05,1,40,300,-400,-80.0,1,Estopou
+2021-10-20,09:15,225,0,09:40,1,40,300,-305,-61.0,1,Estopou
+2021-10-21,09:15,285,1128.9199999999983,09:40,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-10-22,09:15,285,285.27999999999884,09:30,1,40,300,-365,-73.0,1,Estopou
+2021-10-25,09:15,370,0,09:40,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-10-26,09:15,365,399.08000000000175,09:40,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-10-27,09:15,270,0,09:45,1,40,300,-350,-70.0,1,Estopou
+2021-10-28,09:15,270,258.9400000000023,09:20,1,40,300,-350,-70.0,7,Mais provável que estopou para baixo
+2021-10-29,09:15,240,0,09:25,1,40,300,300,60.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-09-02,09:15,235,84.02999999999884,09:40,1,40,300,-315,-63.0,1,Estopou
+2021-09-03,09:15,210,118.44000000000233,09:30,1,40,300,-290,-58.0,1,Estopou
+2021-09-06,09:15,220,9.270000000004075,10:05,1,40,300,-300,-60.0,1,Estopou
+2021-09-09,09:15,570,0,09:30,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-09-10,09:15,305,982.7299999999959,09:40,1,40,300,-385,-77.0,1,Estopou
+2021-09-16,09:15,355,290.25999999999476,09:45,1,40,300,-435,-87.0,1,Estopou
+2021-09-20,09:15,355,1608.6900000000023,09:50,1,40,300,-435,-87.0,1,Estopou
+2021-09-21,09:15,215,677.9499999999971,09:50,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-09-22,09:15,325,1212.6000000000058,10:20,1,40,300,-405,-81.0,1,Estopou
+2021-09-24,09:15,200,396.0200000000041,10:10,1,40,300,300,60.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-09-28,09:15,240,355.070000000007,10:05,1,40,300,-320,-64.0,1,Estopou

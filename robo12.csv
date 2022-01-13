@@ -1,0 +1,9 @@
+CR Data,CR Hora,CR Tamanho,Dist MME,CA Hora,Contratos,Offset,TP,Pontos,Valor,Cod Status,Status
+2021-08-17,09:15,290,352.9100000000035,09:30,1,20,140,140,28.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-08-20,09:15,330,353.6900000000023,09:45,1,20,140,140,28.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-08-23,09:15,240,533.5500000000029,09:45,1,20,140,140,28.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-03-11,09:15,320,1239.3399999999965,10:00,1,20,140,140,28.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-03-17,09:15,270,460.6499999999942,10:00,1,20,140,140,28.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-11-26,09:15,280,1574.229999999996,10:00,1,20,140,140,28.0,3,"Rompeu para baixo, não rompeu para cima e pagou para baixo"
+2021-10-21,09:15,300,1786.4400000000023,09:30,1,20,140,140,28.0,2,"Rompeu para cima, não rompeu para baixo e pagou para cima"
+2021-09-10,09:15,330,2129.1900000000023,09:30,1,20,140,140,28.0,5,Mais provável que pagou para baixo
